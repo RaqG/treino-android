@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Treino</string>
+
+    <!-- LOGIN -->
+    <string name="user_hint">Usuário</string>
+    <string name="password_hint">Senha</string>
+    <string name="sign_up">Logar</string>
+    <string name="welcome_msg">Olá, seja bem-vindo(a) ao aplicativo Treino. Por favor, faça o login em nosso aplicativo e se divirta!</string>
+    <string name="welcome_user">"Bem-vindo(a) "</string>
+    <string name="options_msg">Por favor, escolha uma das opções abaixo</string>
+    <string name="text_list">Listagem</string>
+    <string name="text_float_button">FloatButton</string>
+    <string name="text_recycler_view">RecyclerView</string>
+</resources>

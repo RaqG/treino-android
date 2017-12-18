@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_list_view"
+        android:enabled="true"
+        android:icon="@drawable/ic_list_24dp"
+        android:title="@string/text_list"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_recycler_view"
+        android:enabled="true"
+        android:icon="@drawable/ic_view_list_24dp"
+        android:title="@string/text_recycler_view"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_float_button"
+        android:enabled="true"
+        android:icon="@drawable/ic_brightness_1_24dp"
+        android:title="@string/text_float_button"
+        app:showAsAction="ifRoom" />
+</menu>

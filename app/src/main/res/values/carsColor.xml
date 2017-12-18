@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="vermelha">#DC143C</color>
+    <color name="azul">#00008B</color>
+    <color name="branca">#FFFFFF</color>
+    <color name="dourada">#DAA520</color>
+
+</resources>
